@@ -1,0 +1,11 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+node_modules
+yarn-lock
+*.log
+dist
+.vit
+stats.html
+.eslintcache
